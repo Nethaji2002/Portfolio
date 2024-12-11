@@ -318,6 +318,11 @@ form btn2{
     margin-top: 20px;
     cursor: pointer;
 }
+#msg{
+    color: #61b752;
+    margin-top: -40px;
+    display: block;
+}
 .copyright{
     width: 100%;
     text-align: center;
@@ -344,7 +349,6 @@ nav .fas{
     .header-text h1{
         font-size: 30px;
     }
-
     nav .fas{
         display: block;
         font-size: 25px;
@@ -396,11 +400,7 @@ nav .fas{
         background: #262626;
     }
 }
-#msg{
-    color: #61b752;
-    margin-top: -40px;
-    display: block;
-}
+
 
 
 
