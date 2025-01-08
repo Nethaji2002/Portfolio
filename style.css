@@ -324,6 +324,9 @@ color: #ff004f;
 nav .fas{
     display: none;
 }
+textarea{
+    resize: unset;
+}
 @media only screen and (max-width:600px) {
     #header{
         background-image:url() ;
